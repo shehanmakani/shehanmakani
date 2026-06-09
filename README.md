@@ -1,16 +1,11 @@
-
 # [ SYSTEM_BOOT ] : SHEHAN_MAKANI.exe
 ### *Bridging the Gap Between Software and Steel*
 
+> **Chemical Engineer** with a deep background in process engineering, design, operations, and project management—delivering high-efficiency solutions across industrial chemical projects and specialized pharmaceutical industries.
+>
+> **CEO at Chemrich Global | Co-Founder at ChemeNova LLC** > Pursuing Tech MBA (Concentration: AI & Entrepreneurship). Currently building autonomous AI systems for specialty chemical formulation and engineering the end-to-end supply chain that fields them.
+
 ---
-Chemical Engineer - background in process engineering, design, operations, and project management. Proven ability to deliver safe and efficient solutions in industrial chemical projects, specialized pharmaceutical industries.
-
-CEO at Chemrich Global. 
-Co-Founder at ChemeNova LLC. 
-Pursuing Tech MBA (Concentration: AI & Entrepreneurship)
-
-
-currently building AI systems for specialty chemical formulation -- and running the supply chain that field-tests them at scale.
 
 ## ⚡ The Mission
 I am an AI Engineer and Chemical Technologist engineering the **"Agentic Shift"** in industrial manufacturing. My work focuses on replacing static workflows with autonomous, self-optimizing systems that understand both high-level code and low-level molecular kinetics.
