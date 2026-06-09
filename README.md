@@ -1,16 +1,45 @@
-## Hi there 👋
+# [ SYSTEM_BOOT ] : SHEHAN_MAKANI.exe
+### *Bridging the Gap Between Software and Steel*
 
-<!--
-**shehanmakani/shehanmakani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ The Mission
+I am an AI Engineer and Chemical Technologist engineering the **"Agentic Shift"** in industrial manufacturing. My work focuses on replacing static workflows with autonomous, self-optimizing systems that understand both high-level code and low-level molecular kinetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Status:** Building autonomous R&D pipelines that convert complex simulations into physical industrial outcomes.
+
+---
+
+## 🏗️ Technical Specializations
+
+### 🤖 Agentic AI & Decision Intelligence
+*   **Multi-Agent Orchestration:** Building LLM-based agents that don't just "chat," but execute—handling raw material procurement, constraint validation, and synthesis planning.
+*   **The Future Self Emulator:** Engineering GitHub-hosted decision intelligence systems to simulate life-path outcomes via recursive AI modeling.
+
+### 🧪 Computational Chemistry & Physics
+*   **Kinetic Stability Engines:** Implementing the **Arrhenius Equation** to map high-temp stress tests to real-world shelf life.
+*   **Safe-by-Design Frameworks:** Integrating green chemistry metrics and circular sourcing directly into the formulation logic to eliminate waste at the source.
+
+### ⚙️ Edge Intelligence (IIoT)
+*   **Hardware-to-Steel:** Deploying local intelligence on **NVIDIA Jetson** nodes to monitor torque, vibration, and thermal sensors in real-time.
+*   **Digital Twins:** Creating 1:1 digital replicas of specialty chemical facilities to predict equipment failure before it happens.
+
+---
+
+## 🛸 Active Prototyping
+
+| Project | Domain | Phase | Tech |
+| :--- | :--- | :--- | :--- |
+| **FormulAI** | Agentic Chemistry | *V1.0 (Live)* | Python, JSON Prompt Engine |
+| **MaximusX** | Edge Operations | *Pilot* | Jetson Orin Nano, Pi, Voice |
+| **Time Machine** | Lifecycle Prediction | *Optimizing* | Kinetic Modeling, ML |
+
+---
+
+## 🛠️ The Stack (Quantified)
+
+```yaml
+AI_ENGINEERING: [ "Agentic Workflows", "Prompt Engineering", "Predictive ML" ]
+CHEMICAL_STACK: [ "Formulation Optimization", "Kinetic Simulation", "Green Chemistry" ]
+INDUSTRIAL_IO:  [ "NVIDIA Jetson Orin Nano", "Sensors/Telemetry", "Digital Twins" ]
+LANGUAGES:      [ "Python (Primary)", "JavaScript", "Bash/Linux" ]
