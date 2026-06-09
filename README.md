@@ -47,12 +47,20 @@ I am an AI Engineer and Chemical Technologist engineering the **"Agentic Shift"*
 
 ## 📡 Terminal Connection
 
-*   **LinkedIn:** [linkedin.com/in/shehanmakani](https://linkedin.com/in/shehanmakani)
-*   **Focus:** *Currently scaling the Software-to-Steel pipeline for advanced chemical manufacturing.*
+* **LinkedIn:** [linkedin.com/in/shehanmakani](https://linkedin.com/in/shehanmakani)
+* **Focus:** *Currently scaling the Software-to-Steel pipeline for advanced chemical manufacturing.*
 
 ---
 
-[![Shehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehanmakani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## ⚡ Core Engine Telemetry
+
+🚀 **Development Metrics & Core Technologies**
+
+💻 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f5de19) ![Linux / Bash](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+🤖 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 
 ## 🛠️ The Stack (Quantified)
