@@ -57,5 +57,3 @@ AI_ENGINEERING: [ "Agentic Workflows", "Prompt Engineering", "Predictive ML" ]
 CHEMICAL_STACK: [ "Formulation Optimization", "Kinetic Simulation", "Green Chemistry" ]
 INDUSTRIAL_IO:  [ "NVIDIA Jetson Orin Nano", "Sensors/Telemetry", "Digital Twins" ]
 LANGUAGES:      [ "Python (Primary)", "JavaScript", "Bash/Linux" ]
-
----
