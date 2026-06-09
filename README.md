@@ -43,3 +43,17 @@ AI_ENGINEERING: [ "Agentic Workflows", "Prompt Engineering", "Predictive ML" ]
 CHEMICAL_STACK: [ "Formulation Optimization", "Kinetic Simulation", "Green Chemistry" ]
 INDUSTRIAL_IO:  [ "NVIDIA Jetson Orin Nano", "Sensors/Telemetry", "Digital Twins" ]
 LANGUAGES:      [ "Python (Primary)", "JavaScript", "Bash/Linux" ]
+
+---
+
+## 📡 Terminal Connection
+
+*   **LinkedIn:** [linkedin.com/in/shehanmakani](https://linkedin.com/in/shehanmakani)
+*   **Focus:** *Currently scaling the Software-to-Steel pipeline for advanced chemical manufacturing.*
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehanmakani&show_icons=true&theme=transparent&hide_border=true&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanmakani&layout=compact&theme=transparent&hide_border=true&title_color=00FFD1&text_color=FFFFFF" width="48%" />
+</div>
