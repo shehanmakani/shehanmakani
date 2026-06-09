@@ -52,9 +52,7 @@ I am an AI Engineer and Chemical Technologist engineering the **"Agentic Shift"*
 
 ---
 
-![Shehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehanmakani&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehanmakani&layout=compact&theme=tokyonight&hide_border=true)
+[![Shehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehanmakani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠️ The Stack (Quantified)
