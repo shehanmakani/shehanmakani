@@ -1,67 +1,157 @@
-# [ SYSTEM_BOOT ] : SHEHAN_MAKANI.exe
-### *Bridging the Gap Between Software and Steel*
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║           SHEHAN_MAKANI.exe  ·  SYSTEM PROFILE          ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
 
-> **Chemical Engineer** with a deep background in process engineering, design, operations, and project management—delivering high-efficiency solutions across industrial chemical projects and specialized pharmaceutical industries.
->
-> **CEO at Chemrich Global | Co-Founder at ChemeNova LLC** > Pursuing Tech MBA (Concentration: AI & Entrepreneurship). Currently building autonomous AI systems for specialty chemical formulation and engineering the end-to-end supply chain that fields them.
+<div align="center">
 
----
+```
+[ SYSTEM_BOOT ] : SHEHAN_MAKANI.exe ── initializing...
+```
 
-## ⚡ The Mission
-I am an AI Engineer and Chemical Technologist engineering the **"Agentic Shift"** in industrial manufacturing. My work focuses on replacing static workflows with autonomous, self-optimizing systems that understand both high-level code and low-level molecular kinetics.
-
-> **Status:** Building autonomous R&D pipelines that convert complex simulations into physical industrial outcomes.
-
----
-
-## 🏗️ Technical Specializations
-
-### 🤖 Agentic AI & Decision Intelligence
-*   **Multi-Agent Orchestration:** Building LLM-based agents that don't just "chat," but execute—handling raw material procurement, constraint validation, and synthesis planning.
-*   **The Future Self Emulator:** Engineering GitHub-hosted decision intelligence systems to simulate life-path outcomes via recursive AI modeling.
-
-### 🧪 Computational Chemistry & Physics
-*   **Kinetic Stability Engines:** Implementing the **Arrhenius Equation** to map high-temp stress tests to real-world shelf life.
-*   **Safe-by-Design Frameworks:** Integrating green chemistry metrics and circular sourcing directly into the formulation logic to eliminate waste at the source.
-
-### ⚙️ Edge Intelligence (IIoT)
-*   **Hardware-to-Steel:** Deploying local intelligence on **NVIDIA Jetson** nodes to monitor torque, vibration, and thermal sensors in real-time.
-*   **Digital Twins:** Creating 1:1 digital replicas of specialty chemical facilities to predict equipment failure before it happens.
+</div>
 
 ---
 
-## 🛸 Active Prototyping
+<div align="center">
 
-| Project | Domain | Phase | Tech |
-| :--- | :--- | :--- | :--- |
-| **FormulAI** | Agentic Chemistry | *V1.0 (Live)* | Python, JSON Prompt Engine |
-| **MaximusX** | Edge Operations | *Pilot* | Jetson Orin Nano, Pi, Voice |
-| **Time Machine** | Lifecycle Prediction | *Optimizing* | Kinetic Modeling, ML |
+**Chemical Engineer · AI Engineer · Founder**
 
----
+*Bridging molecular kinetics and autonomous software — the Software-to-Steel pipeline.*
 
-## 📡 Terminal Connection
+`Pearl River, NY` &nbsp;·&nbsp; `ChemeNova LLC` &nbsp;·&nbsp; `ChemRich Global` &nbsp;·&nbsp; `Tech MBA · NJIT`
 
-* **LinkedIn:** [linkedin.com/in/shehanmakani](https://linkedin.com/in/shehanmakani)
-* **Focus:** *Currently scaling the Software-to-Steel pipeline for advanced chemical manufacturing.*
+</div>
 
 ---
 
-## ⚡ Core Engine Telemetry
+## The Mission
 
-🚀 **Development Metrics & Core Technologies**
+Building autonomous R&D pipelines that convert complex simulations into physical industrial outcomes. I work at the intersection where a process engineer's intuition meets an AI architect's toolbox — replacing static chemical workflows with systems that design, validate, and optimize themselves.
 
-💻 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f5de19) ![Linux / Bash](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-🤖 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+This isn't AI applied to chemistry as a feature. It's chemistry reimagined as software.
 
 ---
 
+## What I'm Building
 
-## 🛠️ The Stack (Quantified)
+| Project | Role | Status |
+|---|---|---|
+| **IntelliForm™** | Agentic formulation intelligence platform | Active · [ChemeNova](https://github.com/Cheme-Nova) |
+| **FormulAI** | Natural language → formulation engine | [Live v1.0](https://github.com/shehanmakani/FormulAI) |
+| **MaximusX** | Private GPU-accelerated AI edge node | Pilot · Jetson Orin Nano |
+| **Formulation Time Machine** | Arrhenius kinetic lifecycle prediction | [Optimizing](https://github.com/shehanmakani/Formulation-Time-Machine) |
+| **Cheminformatics ML** | Kaggle portfolio · 6 notebooks | [Active](https://github.com/shehanmakani/cheminformatics-ml) |
+| **TradeBot** | Algorithmic trading system · Alpaca + Telegram | Private |
 
-```yaml
-AI_ENGINEERING: [ "Agentic Workflows", "Prompt Engineering", "Predictive ML" ]
-CHEMICAL_STACK: [ "Formulation Optimization", "Kinetic Simulation", "Green Chemistry" ]
-INDUSTRIAL_IO:  [ "NVIDIA Jetson Orin Nano", "Sensors/Telemetry", "Digital Twins" ]
-LANGUAGES:      [ "Python (Primary)", "JavaScript", "Bash/Linux" ]
+---
+
+## Technical Stack
+
+```python
+CHEMICAL_DOMAIN  = ["Formulation Optimization", "Kinetic Modeling", "Green Chemistry",
+                     "Specialty Chemical Operations", "Process Engineering"]
+
+AI_ENGINEERING   = ["Agentic Workflows", "LangGraph", "Multi-Agent Orchestration",
+                     "Prompt Engineering", "RAG Pipelines", "Predictive ML"]
+
+CHEMINFORMATICS  = ["RDKit", "chemprop", "ADMET Prediction", "Molecular ML",
+                     "Retrosynthesis", "Space Solar Materials"]
+
+EDGE_STACK       = ["NVIDIA Jetson Orin Nano", "Raspberry Pi 5", "IIoT Sensors",
+                     "Digital Twins", "PINNs", "FFT Vibration Analysis"]
+
+LANGUAGES        = ["Python (primary)", "JavaScript", "Bash / Linux"]
+
+PLATFORMS        = ["Vercel", "Docker", "PM2", "Cloudflare Tunnel", "Alpaca Markets"]
+```
+
+---
+
+## Domain Depth
+
+**10+ years** across the specialty chemical value chain — from family manufacturing roots (Snow White Products, est. 1985) through pharmaceutical project management (RK Pharma · Stira Pharmaceuticals) to founding AI-native chemical companies.
+
+Products shipped: Calcium Chloride FCC · D-Limonene · Sodium Benzoate · Propylene Glycol · IPA 99% · Citric Acid across India, the Middle East, and North America.
+
+Research: Surrogate-assisted multi-objective optimization for chemical formulation · published RSC Digital Discovery · ORCID [0009-0005-6746-308X](https://orcid.org/0009-0005-6746-308X)
+
+---
+
+## Active Repositories
+
+<table>
+<tr>
+<td width="50%">
+
+**[cheminformatics-ml](https://github.com/shehanmakani/cheminformatics-ml)**
+ML notebooks for cheminformatics · SpaceChem-AI · ADMET · Retrosynthesis
+
+`Jupyter Notebook`
+
+</td>
+<td width="50%">
+
+**[FormulAI](https://github.com/shehanmakani/FormulAI)**
+Premium AI formulation assistant · sustainability posture · regulatory alignment
+
+`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[MaximusX](https://github.com/shehanmakani/MaximusX)**
+Local GPU AI stack · LangGraph supervisor · Context Membrane RAG
+
+`Python`
+
+</td>
+<td width="50%">
+
+**[Formulation-Time-Machine](https://github.com/shehanmakani/Formulation-Time-Machine)**
+First-order kinetics + Arrhenius-based shelf life simulation
+
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[gold-price-prediction](https://github.com/shehanmakani/gold-price-prediction)**
+Walk-forward CV · macro features · regime-switching ensemble
+
+`Jupyter Notebook`
+
+</td>
+<td width="50%">
+
+**[future-self-emulator](https://github.com/shehanmakani/future-self-emulator)**
+Recursive agentic life-path simulation via decision intelligence
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/shehanmakani) &nbsp;·&nbsp;
+[Medium](https://medium.com/@shehanmakani) &nbsp;·&nbsp;
+[Portfolio](https://sites.google.com/view/shehanmakani/home) &nbsp;·&nbsp;
+[ORCID](https://orcid.org/0009-0005-6746-308X) &nbsp;·&nbsp;
+[about.me](https://about.me/shehanmakani)
+
+<div align="center">
+
+```
+Focus: Scaling the Software-to-Steel pipeline for advanced chemical manufacturing.
+```
+
+</div>
